@@ -1,0 +1,30 @@
+{
+  "build": "P3.0",
+  "date": "2026-10-06T22:52:11.413Z",
+  "checks": [
+    {
+      "name": "Case universe and distinct relationship types",
+      "status": "PASS"
+    },
+    {
+      "name": "All 115 new P3 sensitivity cells match CONTENT.txt",
+      "status": "PASS"
+    },
+    {
+      "name": "Required P3 positions and intervals",
+      "status": "PASS"
+    },
+    {
+      "name": "Path exposure and mandatory action floor",
+      "status": "PASS"
+    },
+    {
+      "name": "New candidate universe and fit arithmetic",
+      "status": "PASS"
+    },
+    {
+      "name": "Unsupported approvals and unsupported closure are rejected",
+      "status": "PASS"
+    }
+  ]
+}
